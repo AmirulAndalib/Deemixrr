@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="AspNet.Security.OAuth.Deezer" Version="5.0.1" />
-    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper" Version="15.1.4" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
     <PackageReference Include="E.Deezer" Version="5.0.0-beta1" />
     <PackageReference Include="Hangfire" Version="1.7.19" />
